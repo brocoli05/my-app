@@ -6,9 +6,9 @@
  *
  *  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
  *
- *  Name: __Minji Kim__ Student ID: __112030226__ Date: __APR/04/2024__
+ *  Name: __Minji Kim__ Student ID: __112030226__ Date: __APR/10/2024__
  *
- *  Vercel App (Deployed) Link: _____________________________________________________
+ *  Vercel App (Deployed) Link: _____https://my-app-omega-roan-51.vercel.app_______
  *
  ********************************************************************************/
 
